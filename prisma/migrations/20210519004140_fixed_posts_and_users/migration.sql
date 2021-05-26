@@ -38,3 +38,4 @@ CREATE UNIQUE INDEX "posts.uuid_unique" ON "posts"("uuid");
 
 -- AddForeignKey
 ALTER TABLE "posts" ADD FOREIGN KEY ("UserId") REFERENCES "users"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+
