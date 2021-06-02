@@ -1,14 +1,28 @@
 <h2 style="font-size:100px;" align="center">
-  <img src="https://raw.githubusercontent.com/MJEND7/MJEND7/main/MJEND.png" height="150vh"></img>
+  <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=af215697b1482ec6fbcc69c7f19e0355be96edb5&v=4" height="150vh"></img>
   <br/>
   MJEND
   <br/>
   <br/>
  </h2>
 <p align="center">
-  <img title="Code - TypeScript" alt="Code - TypeScript" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6"/>
-    <img title="Code - JavaScript" alt="Code - JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
-
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/js.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/devices/raspberrypi.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
 
 
 # PostgreSQL-Prisma-project
