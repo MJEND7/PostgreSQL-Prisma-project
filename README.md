@@ -25,6 +25,7 @@
   
 
 
-#(This project has been paused) PostgreSQL-Prisma-project
+# (This project has been paused)<br><br>
+# PostgreSQL-Prisma-project<br>
  A simple PostgreSQL and Prisma project build fro the ground up with the HOLY STACK OVER FLOW!!
 thanks to Classsed youtube: hers his video if you want to build it your self: https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg
