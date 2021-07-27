@@ -1,7 +1,7 @@
 <h2 style="font-size:100px;" align="center">
-  <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=af215697b1482ec6fbcc69c7f19e0355be96edb5&v=4" height="150vh"></img>
+  <img src="https://avatars.githubusercontent.com/u/60278279?s=400&u=853bef17e7aab97e9275c1bc97aa770818b05855&v=4" height="150vh" ></img>
   <br/>
-  MJEND
+  Hello i am MJEND!
   <br/>
   <br/>
  </h2>
@@ -22,6 +22,10 @@
   </a><a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/csharp_dotnet.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a><br>
+  <img align"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJEND7&layout=compact&theme=material-palenight&langs_count=15" /> <br>
+  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=MJEND7&count_private=true&include_all_commits=true&theme=material-palenight"     alt="MJEND" />
   
 
 
